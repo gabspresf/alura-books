@@ -114,4 +114,32 @@
         display: none;
     }
 
+    .container__texto {
+        display: none;
+    }
+
+    }
+
+    @media screen and (min-width: 1728px) {
+        
+        .cabecalho {
+            padding: 0 2em;
+        }
+
+        .opcoes {
+            margin-right: auto;
+            margin-left: 1.5em;
+        }
+
+        .container__texto {
+            display: block;
+        }
+
+        .container__link {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            color: var(--preto);
+            margin: 0 1em;
+        }
     }
