@@ -53,3 +53,9 @@ Cores: Uso de degradês (var(--azul-degrade)) e paleta definida (Laranja, Azul e
 
 Tipografia: Família Poppins para textos principais e Josefin Sans para títulos, importadas via Google Fonts.
 
+## 💻 Desenvolvido por:
+
+**Gabriela Prestes Farias**
+| Desenvolvedora Front-end |
+**LinkedIn:** https://www.linkedin.com/in/gabriela-prestes-farias/
+
