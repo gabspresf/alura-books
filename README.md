@@ -23,11 +23,11 @@ O **Alura Books** é uma página de e-commerce responsiva dedicada à venda de l
 
 O projeto foi desenvolvido com foco na metodologia **Mobile First**, garantindo uma experiência fluida em dispositivos móveis e adaptando-se para telas maiores (tablets e desktops) através de Media Queries.
 
-![GIF do Alura Books funcionando no mobile](https://github.com/user-attachments/assets/85d040c8-5e60-48d1-bc4e-3d11bbf9c6ce)
+![Alura Books versão mobile](https://github.com/user-attachments/assets/d083d120-331b-46be-ba85-afdf9cce5f08)
 
-![GIF do Alura Books funcionando no tablet](https://github.com/user-attachments/assets/84ee9863-2e57-46b8-8d2c-3c271fc98487)
+![Alura Books versão tablet](https://github.com/user-attachments/assets/35b833c2-bae1-47b8-bf56-573c596c76f3)
 
-![GIF do Alura Books funcionando no desktop](https://github.com/user-attachments/assets/3b0f2443-388e-4500-ac36-0b4203a74bcf)
+![Alura Books versão desktop](https://github.com/user-attachments/assets/7a9a173e-14b4-4f41-82d7-2be6996031f4)
 
 ---
 
