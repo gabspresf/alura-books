@@ -23,6 +23,8 @@ O **Alura Books** é uma página de e-commerce responsiva dedicada à venda de l
 
 O projeto foi desenvolvido com foco na metodologia **Mobile First**, garantindo uma experiência fluida em dispositivos móveis e adaptando-se para telas maiores (tablets e desktops) através de Media Queries.
 
+**Acesse o projeto online:** https://alura-books-rouge-zeta.vercel.app/
+
 ---
 
 ## 🛠️ Funcionalidades e Diferenciais Técnicos
