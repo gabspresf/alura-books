@@ -55,11 +55,17 @@ Tipografia: Família Poppins para textos principais e Josefin Sans para títulos
 
 ## 📹 Demonstração do Projeto
 
-Versão mobile: ![Alura Books versão mobile](https://github.com/user-attachments/assets/d083d120-331b-46be-ba85-afdf9cce5f08)
+Versão mobile:
 
-Versão tablet: ![Alura Books versão tablet](https://github.com/user-attachments/assets/35b833c2-bae1-47b8-bf56-573c596c76f3)
+![Alura Books versão mobile](https://github.com/user-attachments/assets/d083d120-331b-46be-ba85-afdf9cce5f08)
 
-Versão desktop: ![Alura Books versão desktop](https://github.com/user-attachments/assets/7a9a173e-14b4-4f41-82d7-2be6996031f4)
+Versão tablet:
+
+![Alura Books versão tablet](https://github.com/user-attachments/assets/35b833c2-bae1-47b8-bf56-573c596c76f3)
+
+Versão desktop:
+
+![Alura Books versão desktop](https://github.com/user-attachments/assets/7a9a173e-14b4-4f41-82d7-2be6996031f4)
 
 ## 💻 Desenvolvido por:
 
