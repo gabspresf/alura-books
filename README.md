@@ -4,7 +4,7 @@
   <h1>📚 Alura Books</h1>
 
   <p>
-    Front-end de um e-commerce de livros de tecnologia, com foco em responsividade e interatividade via CSS.
+    Front-end de um e-commerce de livros de tecnologia, com foco em responsividade e interatividade.
   </p>
 
   <p>
@@ -19,9 +19,9 @@
 
 ## 📖 Descrição
 
-O **Alura Books** é uma página de e-commerce responsiva dedicada à venda de livros de desenvolvimento e tecnologia, desenvolvida através da formação front-end da Alura!
+O Alura Books é uma página de e-commerce responsiva dedicada à venda de livros de tecnologia, desenvolvida através dos meus estudos pela formação front-end da Alura!
 
-O projeto foi desenvolvido com foco na metodologia **Mobile First**, garantindo uma experiência fluida em dispositivos móveis e adaptando-se para telas maiores (tablets e desktops) através de Media Queries.
+O projeto foi desenvolvido com foco na metodologia Mobile First, garantindo uma experiência fluida em dispositivos móveis e adaptando-se para telas maiores (tablets e desktops).
 
 **Acesse o projeto online:** https://alura-books-rouge-zeta.vercel.app/
 
